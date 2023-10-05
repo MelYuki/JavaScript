@@ -28,7 +28,7 @@ console.log(myBirthDay.getDay()) // de Sun(0) à Sat(6)
 
 // setters
 let yourBirthDate = new Date()
-yourBirthDate.setDate(02)
-yourBirthDate.setMonth(06)
+yourBirthDate.setDate(2)
+yourBirthDate.setMonth(6)
 yourBirthDate.setFullYear(2011)
 console.log(yourBirthDate)

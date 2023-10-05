@@ -1,5 +1,0 @@
-// Les opérateurs
-
-// Mathémathiques
-
-// Logiques
